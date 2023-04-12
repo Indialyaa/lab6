@@ -1,3 +1,4 @@
+
 # Lab6Web
 ```bash
 Nama      : Indi Alya Putri
@@ -8,7 +9,7 @@ Dosen     : Agung Nugroho,S.Kom.,M.Kom
 ```
 ## **Structur projek**
 
-```
-![Screenshot (461)](https://user-images.githubusercontent.com/115305578/231524234-cc374a48-1ea2-42ab-a713-aaff0e1b9573.png)
 
-```
+![indy](https://user-images.githubusercontent.com/115305578/231526353-80aae53e-585f-4b17-a2c6-db362cb54b60.png)
+
+
