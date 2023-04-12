@@ -1,0 +1,173 @@
+html{
+  font-family: poppins, sans-serif;
+}
+
+/* Navigation */
+.navbar {
+  background-color: #333;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 50px;
+}
+
+.navbar a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 10px;
+  transition: all 0.3s ease;
+}
+
+.navbar a:hover {
+  background-color: #fff;
+  color: #333;
+}
+
+/* Container */
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Header */
+header {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 36px;
+  font-weight: bold;
+}
+
+/* Table */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  text-align: left;
+}
+
+td {
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+}
+
+/* Add Button */
+.tambahBarang {
+  display: block;
+  width: 200px;
+  margin: 20px auto;
+  padding: 10px;
+  text-align: center;
+  color: #fff;
+  background-color: #333;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+/* Edit/Delete Buttons */
+.tombolubah,
+.tombolhapus {
+  display: inline-block;
+  width: 10px;
+  margin-right: 10px;
+  text-align: center;
+  color: #fff;
+  background-color: #333;
+  border-radius: 15px;
+  text-decoration: none;
+}
+
+.tombolhapus {
+  background-color: #f00;
+}
+
+/* Footer */
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+  margin-top: 20px;
+}
+
+footer p {
+  margin: 0;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+/* Form Input */
+.input {
+  margin-bottom: 10px;
+  }
+  
+  .input label {
+  display: inline-block;
+  width: 100px;
+  font-weight: bold;
+  margin-right: 10px;
+  }
+  
+  .input input {
+  padding: 5px;
+  border-radius: 3px;
+  border: 1px solid #ccc;
+  width: 200px;
+  }
+  
+  /* Submit Button */
+  .submit {
+  margin-top: 20px;
+  }
+  
+  .submit input {
+  padding: 10px;
+  background-color: #333;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+  }
+  
+  .submit input:hover {
+  background-color: #fff;
+  color: #333;
+  }
+
+  /* Content */
+.content {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .content h2 {
+  font-size: 36px;
+  font-weight: bold;
+  margin-top: 0;
+  }
+  
+  .content p {
+  font-size: 18px;
+  line-height: 1.5;
+  }
